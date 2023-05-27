@@ -9,6 +9,7 @@ Made & introduced by: Mohamed Abdelazim
 - Professor: Dr. Esraa A. Afify
 - Teaching Assistant: Dr. Mustafa Gamal Muhammad
 
+![image](https://github.com/3b3zim/3b3zim/assets/95572097/9b98175e-ed19-4365-95ae-7af5ccadbd78)
 
 Documentation
 Table of Contents
